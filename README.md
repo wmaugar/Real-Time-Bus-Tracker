@@ -43,11 +43,11 @@
 
 <br>
 
-## :dart: About ##
+## :dart: Description of the project ##
 
-Describe your project
+This is a real time bus tracker project, it shows you the current position of buses in service of Massachusets Bay Transportation Authority. It refresh the information every 15 seconds.
 
-## :sparkles: Features ##
+## :sparkles: How to run##
 
 :heavy_check_mark: First, clone this repository;\
 :heavy_check_mark: Second, you need your own mapbox key, it must be inserted on line 2 of mapanimatio.js file  ;\
@@ -61,7 +61,7 @@ The following tools were used in this project:
 - [MTBA API](https://www.mbta.com/developers/v3-api)
 - [MapBox API](https://www.mapbox.com/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Roadmap of future improvements ##
 
 - Next days, you could choose which bus you will like to track
 - Next week, a timestamp will be added
@@ -71,7 +71,7 @@ The following tools were used in this project:
 This project is under license from MIT.
 
 
-Made with :heart: by <a href="https://github.com/{{wmaugar}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{wmaugar}}" target="_blank">{{Willy Mauricio}}</a>
 
 &#xa0;
 
