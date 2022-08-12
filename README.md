@@ -46,6 +46,7 @@
 ## :dart: Description of the project ##
 
 This is a real time bus tracker project, it shows you the current position of buses in service of Massachusets Bay Transportation Authority. It refresh the information every 15 seconds.
+This first version tracks the position of only one bus, using Mapbox API and MBTA API.
 
 ## :sparkles: How to run##
 

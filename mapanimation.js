@@ -30,13 +30,15 @@ async function getBusesInfo(){
 buses = await getBusLocations();
 
     for(let i=0; i< buses.length; i++){
-      let busInfo = {};
+      let busInfo = {};      
       busInfo.busNumber = buses[i].attributes.label;
       busInfo.Status = buses[i].attributes.current_status;
       busesInfo.push(busInfo);
     }
     console.log(buses);
     console.log(busesInfo);
+
+
 }
 
 getBusesInfo();
@@ -55,11 +57,11 @@ async function run(){
 	console.log(locations);
 	let newLocation = [];
 
-  newLocation.push(locations[0].attributes.longitude);
-  newLocation.push(locations[0].attributes.latitude);
-	
-  console.log(newLocation);
-  marker.setLngLat(newLocation); 
+    newLocation.push(locations[0].attributes.longitude);
+    newLocation.push(locations[0].attributes.latitude);  
+    console.log(newLocation);
+    marker.setLngLat(newLocation); 
 
+  
 	setTimeout(run, 15000);
 }
