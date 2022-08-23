@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#dart-Description">Description</a> &#xa0; | &#xa0; 
-  <a href="#checkered_flag-How">How to run</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-How_to_run">How to run</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-Roadmap">Roadmap of the future improvements</a> &#xa0; | &#xa0;
   <a href="#memo-License">License</a> &#xa0; | &#xa0;
   <a href="#rocket-Technologies">Technologies</a> &#xa0; | &#xa0;
@@ -49,7 +49,7 @@ This is a real time bus tracker project, it shows you the current position of bu
 It refresh the information every 15 seconds.
 This project uses MBTA API for obtain real data, and MAPBOX APIfor visualization in a map inside a web document.
 
-## :checkered_flag: How ##
+## :checkered_flag: How_to_Run ##
 
 :heavy_check_mark: First, clone this repository;\
 :heavy_check_mark: Second, you need your own mapbox key, it must be inserted on line 2 of mapanimatio.js file  ;\
