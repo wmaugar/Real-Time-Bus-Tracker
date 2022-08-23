@@ -9,19 +9,19 @@
 <h1 align="center">Real Time Bus Tracker</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{wmaugar}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{wmaugar}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wmaugar/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{wmaugar}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wmaugar/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{wmaugar}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/wmaugar/real-time-bus-tracker?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{wmaugar}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wmaugar/real-time-bus-tracker?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{wmaugar}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wmaugar/real-time-bus-tracker?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{wmaugar}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wmaugar/real-time-bus-tracker?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -35,7 +35,7 @@
 <p align="center">
   <a href="#dart-Description">Description</a> &#xa0; | &#xa0; 
   <a href="#checkered_flag-How">How to run</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-Roadmap">Roadmap of the future impprovements</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-Roadmap">Roadmap of the future improvements</a> &#xa0; | &#xa0;
   <a href="#memo-License">License</a> &#xa0; | &#xa0;
   <a href="#rocket-Technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="https://wmaugar.github.io/Landing-Page/" target="_blank">Author</a>
@@ -45,8 +45,9 @@
 
 ## :dart: Description ##
 
-This is a real time bus tracker project, it shows you the current position of buses in service of Massachusets Bay Transportation Authority. It refresh the information every 15 seconds.
-This first version tracks the position of only one bus, using Mapbox API and MBTA API.
+This is a real time bus tracker project, it shows you the current position of buses in service of Massachusets Bay Transportation Authority. 
+It refresh the information every 15 seconds.
+This project uses MBTA API for obtain real data, and MAPBOX APIfor visualization in a map inside a web document.
 
 ## :checkered_flag: How ##
 
