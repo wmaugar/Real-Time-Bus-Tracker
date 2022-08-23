@@ -35,9 +35,9 @@
 <p align="center">
   <a href="#dart-about">Description of the project</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">How to run</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Roadmap of the future impprovements</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{wmaugar}}" target="_blank">Author</a>
 </p>
 
@@ -48,19 +48,11 @@
 This is a real time bus tracker project, it shows you the current position of buses in service of Massachusets Bay Transportation Authority. It refresh the information every 15 seconds.
 This first version tracks the position of only one bus, using Mapbox API and MBTA API.
 
-## :sparkles: How to run##
+## :sparkles: How to run ##
 
 :heavy_check_mark: First, clone this repository;\
 :heavy_check_mark: Second, you need your own mapbox key, it must be inserted on line 2 of mapanimatio.js file  ;\
 :heavy_check_mark: Third, open index.html on a web browser, and click on the button Iniciar Rastreo;
-
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [JavaScript](https://www.javascript.com/)
-- [MTBA API](https://www.mbta.com/developers/v3-api)
-- [MapBox API](https://www.mapbox.com/)
 
 ## :white_check_mark: Roadmap of future improvements ##
 
@@ -71,8 +63,15 @@ The following tools were used in this project:
 
 This project is under license from MIT.
 
+## :rocket: Technologies ##
 
-Made with :heart: by <a href="https://github.com/{{wmaugar}}" target="_blank">{{Willy Mauricio}}</a>
+The following tools were used in this project:
+
+- [JavaScript](https://www.javascript.com/)
+- [MTBA API](https://www.mbta.com/developers/v3-api)
+- [MapBox API](https://www.mapbox.com/)
+
+Made with :effort: by <a href="https://github.com/{{wmaugar}}" target="_blank">{{Willy Mauricio}}</a>
 
 &#xa0;
 
