@@ -52,7 +52,7 @@ This project uses MBTA API for obtain real data, and MAPBOX APIfor visualization
 ## :checkered_flag: How_to_Run ##
 
 :heavy_check_mark: First, clone this repository;\
-:heavy_check_mark: Second, you need your own mapbox key, it must be inserted on line 2 of mapanimatio.js file  ;\
+:heavy_check_mark: Second, you need your own mapbox key, it must be inserted on line 2 of mapanimation.js file  ;\
 :heavy_check_mark: Third, open index.html on a web browser, and click on the button Iniciar Rastreo;
 
 ## :white_check_mark: Roadmap ##
