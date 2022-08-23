@@ -37,7 +37,7 @@
   <a href="#checkered_flag-How">How to run</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-Roadmap">Roadmap of the future impprovements</a> &#xa0; | &#xa0;
   <a href="#memo-License">License</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-Technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="https://wmaugar.github.io/Landing-Page/" target="_blank">Author</a>
 </p>
 
@@ -48,13 +48,13 @@
 This is a real time bus tracker project, it shows you the current position of buses in service of Massachusets Bay Transportation Authority. It refresh the information every 15 seconds.
 This first version tracks the position of only one bus, using Mapbox API and MBTA API.
 
-## :checkered_flag: How ## ## to run ##
+## :checkered_flag: How ##
 
 :heavy_check_mark: First, clone this repository;\
 :heavy_check_mark: Second, you need your own mapbox key, it must be inserted on line 2 of mapanimatio.js file  ;\
 :heavy_check_mark: Third, open index.html on a web browser, and click on the button Iniciar Rastreo;
 
-## :white_check_mark: Roadmap ## ## of future improvements ##
+## :white_check_mark: Roadmap ##
 
 - Next days, you could choose which bus you will like to track
 - Next week, a timestamp will be added
