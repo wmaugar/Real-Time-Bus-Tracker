@@ -33,22 +33,22 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">Description of the project</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">How to run</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Roadmap of the future impprovements</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#dart-Description">Description</a> &#xa0; | &#xa0; 
+  <a href="#checkered_flag-How to run">How to run</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-Roadmap of future improvements">Roadmap of the future impprovements</a> &#xa0; | &#xa0;
+  <a href="#memo-License">License</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{wmaugar}}" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: Description of the project ##
+## :dart: Description ##
 
 This is a real time bus tracker project, it shows you the current position of buses in service of Massachusets Bay Transportation Authority. It refresh the information every 15 seconds.
 This first version tracks the position of only one bus, using Mapbox API and MBTA API.
 
-## :sparkles: How to run ##
+## :checkered_flag: How to run ##
 
 :heavy_check_mark: First, clone this repository;\
 :heavy_check_mark: Second, you need your own mapbox key, it must be inserted on line 2 of mapanimatio.js file  ;\
@@ -71,7 +71,9 @@ The following tools were used in this project:
 - [MTBA API](https://www.mbta.com/developers/v3-api)
 - [MapBox API](https://www.mapbox.com/)
 
-Made with :effort: by <a href="https://github.com/{{wmaugar}}" target="_blank">{{Willy Mauricio}}</a>
+## :sparkles: Author ##
+
+ade with :heart: by <a href="https://wmaugar.github.io/Landing-Page/" target="_blank">Willy Mauricio</a>
 
 &#xa0;
 
